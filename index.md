@@ -1,4 +1,6 @@
+# Otago Environmental DNA 
 
+This is the main page for the Otago eDNA Research Group
 
 ## Upcoming Events
 
