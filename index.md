@@ -1,7 +1,7 @@
-# Otago Environmental DNA 
+*This is the main page for the Otago eDNA Research Group*
 
-This is the main page for the Otago eDNA Research Group
-
+<br/><br/>
+<br/><br/>
 ## Upcoming Events
 
 New Zealand-Australia Environmental DNA Workshop
