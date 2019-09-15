@@ -1,6 +1,6 @@
 *This is the main page for the Otago eDNA Research Group*
 
-<br/><br/>
+
 # Announcement
 
 [**New Zealand-Australia Environmental DNA Workshop**](https://otagoedna.github.io/eDNA_Workshop_Nov_2019/)
@@ -11,7 +11,7 @@ The [Otago eDNA Research Group](https://otagoedna.github.io/) at the [University
 
 For more information or to register, go to main conference page:
 
-[**Environmental DNA Workshop**(https://otagoedna.github.io/eDNA_Workshop_Nov_2019/)
+[**Environmental DNA Workshop**](https://otagoedna.github.io/eDNA_Workshop_Nov_2019/)
 
 
 
